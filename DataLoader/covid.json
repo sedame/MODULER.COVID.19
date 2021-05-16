@@ -1,0 +1,42 @@
+[
+{
+	"id_communique":283,
+	"date_communique":"9 decembre 2020",
+	"nb_tests":1001,
+	"nb_cas":69,
+	"nb_cas_contact":33,
+	"nb_cas_communautaire":35,
+	"nb_gueris":40,
+	"nb_deces":1
+},
+{
+	"id_communique":0,
+	"date_communique":"8 septembre 2020",
+	"nb_tests":788,
+	"nb_cas":30,
+	"nb_cas_contact":18,
+	"nb_cas_communautaire":11,
+	"nb_gueris":51,
+	"nb_deces":1
+},
+{
+	"id_communique":328,
+	"date_communique":"23 janvier 2021",
+	"nb_tests":2839,
+	"nb_cas":250,
+	"nb_cas_contact":86,
+	"nb_cas_communautaire":164,
+	"nb_gueris":195,
+	"nb_deces":8
+},
+{
+	"id_communique":247,
+	"date_communique":"3 novembre 2020",
+	"nb_tests":400,
+	"nb_cas":3,
+	"nb_cas_contact":0,
+	"nb_cas_communautaire":3,
+	"nb_gueris":90,
+	"nb_deces":1
+}
+]
